@@ -1,0 +1,15 @@
+
+.bg-dark {
+  color: #fff;
+  background-color: #101010;
+}
+
+body{
+	margin: 80px
+}
+
+label.error {
+    color: #cc5965;
+    display: inline-block;
+    margin-left: 5px;
+}
